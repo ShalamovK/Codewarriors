@@ -1,0 +1,7 @@
+C:\Users\Kirill\source\repos\CodewarriorsApp\CodewarriorsApp\bin\Debug\CodewarriorsApp.exe.config
+C:\Users\Kirill\source\repos\CodewarriorsApp\CodewarriorsApp\bin\Debug\CodewarriorsApp.exe
+C:\Users\Kirill\source\repos\CodewarriorsApp\CodewarriorsApp\bin\Debug\CodewarriorsApp.pdb
+C:\Users\Kirill\source\repos\CodewarriorsApp\CodewarriorsApp\obj\Debug\CodewarriorsApp.csproj.AssemblyReference.cache
+C:\Users\Kirill\source\repos\CodewarriorsApp\CodewarriorsApp\obj\Debug\CodewarriorsApp.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\source\repos\CodewarriorsApp\CodewarriorsApp\obj\Debug\CodewarriorsApp.exe
+C:\Users\Kirill\source\repos\CodewarriorsApp\CodewarriorsApp\obj\Debug\CodewarriorsApp.pdb
